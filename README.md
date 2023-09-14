@@ -11,5 +11,5 @@ Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
 
 # Diagrama de Classes
 
-
+![DiagramaDeClassesIphone](https://github.com/kemps-medeiros/diagramacao-classes-iphone/assets/75223837/2ace7239-b5fe-4397-a4a6-e5e1ca5c7536)
 
